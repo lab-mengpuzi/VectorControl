@@ -3,11 +3,23 @@
 ## Deploy
 
 ```plain
-Code:
-  TraeCN 3.0.1
-  GLM-4.6
-Build:
-  JetBrains Rider 2024.3.4
+软件开发套件：
+  工作负荷：
+    .NET 桌面开发
+  单个组件：
+    .NET Framework 3.5 开发工具
+  MSBuild 路径：
+    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\amd64\MSBuild.exe
+  可选：
+    [2024.11 .NET SDK 6.0.428 | Microsoft](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer)
+编码：
+  集成开发环境：
+    TraeCN 3.0.1
+  大模型：
+    GLM-4.6
+构建：
+  集成开发环境：
+    JetBrains Rider 2024.3.4
 ```
 
 ## 原作者_存档_20230913
