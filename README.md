@@ -1,5 +1,18 @@
 # VectorControl
 
+## Deploy
+
+```plain
+Code:
+  TraeCN 3.0.1
+  GLM-4.6
+Build:
+  JetBrains Rider 2024.3.4
+```
+
+## 原作者_存档_20230913
+
+```plain
 VectorControl是一个C#开发的矢量图形开发组件，实现了目前主流的矢量图形编辑软件所提供的的大部分功能，可用于组态、建模、工控、仿真以及其他需要使用图形渲染和编辑的开发场景。以SVG文件作为底层格式，可以重用市面上主流图形软件生成的SVG文件进行开发。  
 VectorControl第一版大概写于05年左右，当时以闭源的形式提供，最后一次更新大约在14年左右。但想着或许可作为图形开发中的他山之石，遂开源。  
 相关问题建议，可以联系：yypprr@sohu.com
@@ -24,4 +37,4 @@ VectorControl
 ![demo3](https://github.com/holoyangpeng/VectorControl/assets/114057336/240da646-26dd-4df6-b095-0a7a2432240c)
 ![demo5](https://github.com/holoyangpeng/VectorControl/assets/114057336/2db7c683-ca04-4f51-a1da-c0c897207db0)
 ![demo6](https://github.com/holoyangpeng/VectorControl/assets/114057336/5ef6d04e-a508-4ee0-9efa-d5ddf7f3f9ab)
-
+```
