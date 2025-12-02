@@ -45,7 +45,7 @@ VectorControl
 运行程序可以打开解决方案后编译运行SymbolDesigner项目。SymbolDesigner提供了几个简单实例，分别展示了如何使用VectorContol开发电路、电网、流程图、组态以及地图等。
 ![demo1](https://github.com/holoyangpeng/VectorControl/assets/114057336/9f3c911f-d9e6-4d5f-b898-768caf168427)
 ![demo2](https://github.com/holoyangpeng/VectorControl/assets/114057336/5787d635-e4e6-4d00-bbd6-0392e1034670)
-!![demo4](https://github.com/holoyangpeng/VectorControl/assets/114057336/0755b73e-d8d9-4290-92ae-3f7b52841d2f)
+![demo4](https://github.com/holoyangpeng/VectorControl/assets/114057336/0755b73e-d8d9-4290-92ae-3f7b52841d2f)
 ![demo3](https://github.com/holoyangpeng/VectorControl/assets/114057336/240da646-26dd-4df6-b095-0a7a2432240c)
 ![demo5](https://github.com/holoyangpeng/VectorControl/assets/114057336/2db7c683-ca04-4f51-a1da-c0c897207db0)
 ![demo6](https://github.com/holoyangpeng/VectorControl/assets/114057336/5ef6d04e-a508-4ee0-9efa-d5ddf7f3f9ab)
